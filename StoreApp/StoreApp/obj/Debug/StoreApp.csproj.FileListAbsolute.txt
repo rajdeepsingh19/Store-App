@@ -1,0 +1,60 @@
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\Store.g.cs
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\App.g.cs
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\MainWindow.baml
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\Store.baml
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\Login.g.cs
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\Login.baml
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\AdminPage.g.cs
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\AdminPage.baml
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\OrderHistory.g.cs
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\OrderHistory.baml
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\EditProduct.g.cs
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\EditProduct.baml
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\bin\Debug\StoreApp.exe.manifest
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\bin\Debug\StoreApp.application
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.TrustInfo.xml
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.exe.manifest
+D:\Projects _ Jeffin\FreeLance\StoreApp\StoreApp\obj\Debug\StoreApp.application
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\bin\Debug\StoreApp.exe.manifest
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\bin\Debug\StoreApp.application
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\AdminPage.g.cs
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\EditProduct.g.cs
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\Login.g.cs
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\OrderHistory.g.cs
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\Store.g.cs
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\App.g.cs
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\AdminPage.baml
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\EditProduct.baml
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\Login.baml
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\MainWindow.baml
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\OrderHistory.baml
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\Store.baml
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.TrustInfo.xml
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.exe.manifest
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.application
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+C:\Users\nsharma\Desktop\C# D05\StoreAppAmanNamanRajdeep\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
